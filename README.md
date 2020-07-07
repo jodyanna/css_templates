@@ -13,12 +13,12 @@ Simply download the code from this repo and add the file
 of choice into a project's directory. Or copy/paste
 selections into a .css file.
 
-#Acknowledgements
+# Acknowledgements
 
 W3Schools is a nice website. 
 GitHub user necolas has a great normalize style sheet.
 
-#License
+# License
 
 MIT License
 
